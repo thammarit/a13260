@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">a13260</string>
+    <string name="title_name">Fortune Cookies</string>
+    <string name="result_name">Fortune Cookies Result</string>
+    <string name="new_name">New Cookies</string>
+    <string name="result_name1">Result</string>
+    <string name="result_name2">Result :</string>
+    <string name="result_name3">No Result</string>
+    <string name="date_name">Date:</string>
+</resources>
